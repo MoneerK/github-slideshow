@@ -36,6 +36,7 @@ GEM
     gemoji (3.0.1)
     github-pages (214)
       github-pages-health-check (= 1.17.0)
+
       jekyll (= 3.9.0)
       jekyll-avatar (= 0.7.0)
       jekyll-coffeescript (= 1.1.1)
@@ -53,6 +54,7 @@ GEM
       jekyll-remote-theme (= 0.4.3)
       jekyll-sass-converter (= 1.5.2)
       jekyll-seo-tag (= 2.7.1)
+
       jekyll-sitemap (= 1.4.0)
       jekyll-swiss (= 1.0.0)
       jekyll-theme-architect (= 0.1.1)
@@ -71,12 +73,14 @@ GEM
       jekyll-titles-from-headings (= 0.5.3)
       jemoji (= 0.12.0)
       kramdown (= 2.3.1)
+
       kramdown-parser-gfm (= 1.1.0)
       liquid (= 4.0.3)
       mercenary (~> 0.3)
       minima (= 2.5.1)
       nokogiri (>= 1.10.4, < 2.0)
       rouge (= 3.26.0)
+
       terminal-table (~> 1.4)
     github-pages-health-check (1.17.0)
       addressable (~> 2.3)
@@ -88,6 +92,7 @@ GEM
       activesupport (>= 2)
       nokogiri (>= 1.4)
     html-proofer (3.18.8)
+
       addressable (~> 2.3)
       mercenary (~> 0.3)
       nokogumbo (~> 2.0)
@@ -126,6 +131,7 @@ GEM
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.15.1)
+
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
@@ -133,6 +139,7 @@ GEM
       jekyll (>= 3.4, < 5.0)
       octokit (~> 4.0, != 4.4.0)
     jekyll-mentions (1.6.0)
+
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
     jekyll-optional-front-matter (0.3.2)
@@ -205,11 +212,13 @@ GEM
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
     kramdown (2.3.1)
+
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
     listen (3.5.1)
+
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
@@ -232,6 +241,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
+
     racc (1.5.2)
     rainbow (3.0.0)
     rb-fsevent (0.10.4)
@@ -242,6 +252,7 @@ GEM
     ruby-enum (0.9.0)
       i18n
     ruby2_keywords (0.0.4)
+
     rubyzip (2.3.0)
     safe_yaml (1.0.5)
     sass (3.7.4)
@@ -253,6 +264,7 @@ GEM
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
     simpleidn (0.2.1)
+
       unf (~> 0.1.4)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
@@ -260,6 +272,7 @@ GEM
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     tzinfo (1.2.9)
+
       thread_safe (~> 0.1)
     unf (0.1.4)
       unf_ext
@@ -268,12 +281,13 @@ GEM
     yell (2.2.2)
     zeitwerk (2.4.2)
 
+
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (>= 198)
-  html-proofer (>= 3.11.1)
+  github-pages (>= 207)
+  html-proofer (>= 3.13.0)
   tzinfo-data
 
 BUNDLED WITH
